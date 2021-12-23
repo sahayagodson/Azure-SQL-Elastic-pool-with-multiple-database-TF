@@ -1,0 +1,8 @@
+resource_group     = "My_Terraform_RG"
+resource_group_location = "West Europe"
+sql_server         = "dbrepoc80722"
+sql_username            = "terraform-demo-009"
+sql_password            = "4-v3ry-53cr37-p455w0rd"
+sql_elasticpool   = "test"
+db_dtu_min = "0"
+db_dtu_max = "5"
